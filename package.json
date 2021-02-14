@@ -1,0 +1,19 @@
+{
+  "name": "random-number-between-two-numbers",
+  "version": "1.0.0",
+  "description": "generate a random number between two numbers (inclusive)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Browne/npm-random-number-between.git"
+  },
+  "author": "Paul Browne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paul-Browne/npm-random-number-between/issues"
+  },
+  "homepage": "https://github.com/Paul-Browne/npm-random-number-between#readme"
+}
